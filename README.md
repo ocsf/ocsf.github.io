@@ -10,7 +10,7 @@ Refer to the white paper [Understanding the Open Cybersecurity Schema Framework]
 
 ## FAQ
 
-We are maintaining a list of [FAQs here](https://github.com/ocsf/ocsf-docs/tree/main/FAQs) 
+We are maintaining a list of [FAQs here](https://github.com/ocsf/ocsf-docs/tree/main/FAQs).
 
 ## Contributors
 
