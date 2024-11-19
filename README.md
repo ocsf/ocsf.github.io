@@ -8,20 +8,24 @@ The framework is made up of a set of data types, an attribute dictionary, and th
 
 Refer to the white paper [Understanding the Open Cybersecurity Schema Framework](https://github.com/ocsf/ocsf-docs/blob/main/Understanding%20OCSF.pdf) for an introduction to the framework and schema.  A schema browser for the cybersecurity schema can be found at [OCSF Schema](https://schema.ocsf.io), where the user can easily navigate the schema, apply profiles and extensions, and browse the attributes, objects and event classes.
 
+### OCSF Joins the Linux Foundation
+
+November 19, 2024 is a milestone in the continued progress of the OCSF consortium of companies and individuals committed to the standardization of cybersecurity related events. We are pleased that an organization as storied and consequential as the [Linux Foundation](https://www.linuxfoundation.org/) has considered our progress to be worthy of becoming a Linux Foundation Project. OCSF development will not change as the Linux Foundation policies and governance model is consistent with the current model. Please review the [Technical Charter](https://github.com/ocsf/governance/blob/main/OCSF%20Technical%20Charter.pdf).
+
 ## FAQ
 
 We are maintaining a list of [FAQs here](https://github.com/ocsf/ocsf-docs/tree/main/FAQs).
 
 ## Contributors
 
-OCSF has a Steering Committee and Maintainers in addtion to Contributors.  Interested in contributing to the OCSF project?  Please check out the documentation on how in the [OCSF Contribution Guide](https://github.com/ocsf/ocsf-schema/blob/main/CONTRIBUTING.md) file.
+OCSF has a Steering Committee and Maintainers in addition to Contributors.  Interested in contributing to the OCSF project?  Please check out the documentation on how in the [OCSF Contribution Guide](https://github.com/ocsf/ocsf-schema/blob/main/CONTRIBUTING.md) file.
 
 [List of Contributing Organizations](https://github.com/ocsf/.github/blob/main/profile/Contributors.md)
 
 ## Slack Workspace
 
-The project has a Slack workspace where contributors discuss issues and topics.  If you would like to be invited to join, send an email to info@ocsf.io.  Tell us about interests and introduce yourself to the group after you accept an invite.
+The project has a Slack workspace where contributors discuss issues and topics.  If you would like to be invited to join, send an email to [info@ocsf.io](mailto:info@ocsf.io).  Tell us about interests and introduce yourself to the group after you accept an invite.
 
 ## License
 
-OCSF is licensed under the Apache License 2.0.  Check out the LICENSE file to understand the requirements to use the artifacts of the project.
+OCSF is licensed under the Apache License 2.0.  Check out the [LICENSE](https://github.com/ocsf/.github/blob/main/LICENSE) file to understand the requirements to use the artifacts of the project.
